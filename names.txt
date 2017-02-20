@@ -2,4 +2,4 @@ Hello, my name is Jeremy
 Hello, my name is also Jeremy
 Hello, my name is Justin
 Hello, my name is Colin
-Howdy folks, people call me Brian
+This is my second attempt at putting my name, Brian, into this file
